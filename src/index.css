@@ -4,19 +4,16 @@
 @theme {
   --color-primary: #2563EB;
   --color-secondary: #FBBF24;
-  --color-accent: #3b82f6;
+  /* --color-accent: #3b82f6;
   --color-background: #f8fafc;
   --color-text: #111827;
   --color-text-secondary: #6b7280;
   --color-border: #e5e7eb;
-  --color-success: #10b981;
+  --color-success: #10b981; */
 }
 
 * {
   font-family: Outfit;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
 }
 
 .font-palyfair {
