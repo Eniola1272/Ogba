@@ -4,7 +4,7 @@ import Title from "./Title"
 const ExclusiveOffers = () => {
   return (
     <div>
-        <div>
+        <div className="" >
             <Title title="Exclusive Offers" subTitle="" align="left" />
             <button>
                 View All Offers
