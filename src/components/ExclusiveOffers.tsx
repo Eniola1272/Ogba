@@ -8,7 +8,7 @@ const ExclusiveOffers = () => {
             <Title title="Exclusive Offers" subTitle="" align="left" />
             <button>
                 View All Offers
-                <img src={assets.arrowIcon} alt="arrow icon" />
+                <img src={assets.arrowIcon} alt="arrow icon" className='group-hover:translate-x-1 transition-all' />
             </button>
         </div>
     </div>
